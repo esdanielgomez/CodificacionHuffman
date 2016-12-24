@@ -6,7 +6,10 @@ Para más información sobre la codificación de huffman, revisar la siguiente p
 
 #Desarrolladores:
 
-Jefferson Arias Ochoa 
+Jefferson Arias Ochoa
+
 Daniel Gomez Jaramillo 
+
 Jonnathan Peñaranda Sarmiento 
+
 Gabriela Verdugo Velesaca
